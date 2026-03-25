@@ -65,3 +65,12 @@ src/
 
 ---
 
+## ▶️ Getting Started
+
+### 📥 Installation
+```bash
+git clone https://github.com/your-username/your-frontend-repo.git
+cd your-frontend-repo
+```
+
+
