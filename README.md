@@ -21,6 +21,7 @@ Users can enter any website URL and instantly view insights about data usage, en
 - HTML
 - CSS
 - JavaScript
-- (Optional: React / Tailwind CSS if you used them)
+- React
+- Tailwind CSS
 
 ---
