@@ -96,5 +96,15 @@ npm start
 
 ---
 
+## 🤝 Contributing
+Feel free to fork this repository and contribute!
+
+---
+
+## 📄 License
+This project is licensed under the MIT License.
+
+---
+
 
 
