@@ -54,3 +54,14 @@ POST http://localhost:8080/api/analyze
 
 ---
 
+## 📂 Project Structure
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── styles/
+ └── App.js
+```
+
+---
+
