@@ -81,5 +81,12 @@ npm start
 
 ---
 
+## 🌍 Use Cases
+- Developers analyzing website performance
+- Sustainable web design practices
+- Educational projects on green technology
+
+---
+
 
 
