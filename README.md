@@ -69,8 +69,8 @@ src/
 
 ### 📥 Installation
 ```bash
-git clone https://github.com/your-username/your-frontend-repo.git
-cd your-frontend-repo
+git clone https://github.com/Hina7253/carbon-footprint-frontend.git
+
 ```
 
 ### ▶️ Run the Project
