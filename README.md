@@ -73,4 +73,13 @@ git clone https://github.com/your-username/your-frontend-repo.git
 cd your-frontend-repo
 ```
 
+### ▶️ Run the Project
+```bash
+npm install
+npm start
+```
+
+---
+
+
 
