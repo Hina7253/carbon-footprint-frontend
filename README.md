@@ -37,3 +37,20 @@ Users can enter any website URL and instantly view insights about data usage, en
    - Optimization suggestions
 
 ---
+
+## 🔗 API Integration
+
+### Endpoint Used
+```
+POST http://localhost:8080/api/analyze
+```
+
+### Example Request
+```json
+{
+  "url": "https://example.com"
+}
+```
+
+---
+
