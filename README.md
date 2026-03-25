@@ -16,3 +16,11 @@ Users can enter any website URL and instantly view insights about data usage, en
 - 🎯 Clean and responsive UI
 
 ---
+
+## 🛠️ Tech Stack
+- HTML
+- CSS
+- JavaScript
+- (Optional: React / Tailwind CSS if you used them)
+
+---
