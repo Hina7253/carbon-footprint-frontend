@@ -25,3 +25,15 @@ Users can enter any website URL and instantly view insights about data usage, en
 - Tailwind CSS
 
 ---
+
+## ⚙️ How It Works
+1. User enters a website URL
+2. Frontend sends request to backend API
+3. Receives analysis data
+4. Displays:
+   - Data size
+   - Energy consumption
+   - CO₂ emissions
+   - Optimization suggestions
+
+---
