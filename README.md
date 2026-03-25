@@ -88,5 +88,13 @@ npm start
 
 ---
 
+## 📈 Future Enhancements
+- Graphs and charts for better visualization
+- Dark mode UI
+- Real-time analysis
+- Deployment (Vercel / Netlify)
+
+---
+
 
 
