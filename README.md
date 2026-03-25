@@ -109,7 +109,7 @@ This project is licensed under the MIT License.
 ## 👩‍💻 Author
 Hina Kumari  
 GitHub: https://github.com/Hina7253  
-LinkedIn: https://www.linkedin.com/in/hina-569635334/
+LinkedIn: https://www.linkedin.com/in/hina7253/
 
 ---
 
